@@ -1,0 +1,22 @@
+[
+  {
+    "question": "¿Cuál es la principal diferencia entre el funcionalismo y la teoría crítica?",
+    "options": [
+      "El funcionalismo usa datos cualitativos, la teoría crítica no.",
+      "El funcionalismo ve al receptor como pasivo; la teoría crítica lo ve como activo.",
+      "El funcionalismo mide para predecir comportamientos; la teoría crítica critica la manipulación ideológica.",
+      "Ambos enfoques usan los mismos métodos pero con distinto nombre."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué es el significante según Saussure?",
+    "options": [
+      "El concepto o idea.",
+      "La imagen acústica o forma de la palabra.",
+      "La traducción literal del signo.",
+      "La intención del mensaje."
+    ],
+    "answer": 1
+  }
+]
