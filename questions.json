@@ -1,21 +1,201 @@
 [
   {
-    "question": "¿Cuál es la principal diferencia entre el funcionalismo y la teoría crítica?",
+    "question": "¿Qué enfoque considera que los medios transmiten información para entretener y ejercer control social?",
     "options": [
-      "El funcionalismo usa datos cualitativos, la teoría crítica no.",
-      "El funcionalismo ve al receptor como pasivo; la teoría crítica lo ve como activo.",
-      "El funcionalismo mide para predecir comportamientos; la teoría crítica critica la manipulación ideológica.",
-      "Ambos enfoques usan los mismos métodos pero con distinto nombre."
+      "Teoría Crítica",
+      "Funcionalismo (Mass Communication Research)",
+      "Estructuralismo",
+      "Inteligencia Colectiva"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué autores están asociados a la Escuela de Frankfurt?",
+    "options": [
+      "Roman Jakobson y Roland Barthes",
+      "Adorno y Horkheimer",
+      "Genís Roca y Alvin Toffler",
+      "Henry Jenkins y Carlos Scolari"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué función del lenguaje explica el propio lenguaje?",
+    "options": [
+      "Referencial",
+      "Emotiva",
+      "Metalingüística",
+      "Fática"
     ],
     "answer": 2
   },
   {
-    "question": "¿Qué es el significante según Saussure?",
+    "question": "¿Cuál es el significado connotado de un perro?",
     "options": [
-      "El concepto o idea.",
-      "La imagen acústica o forma de la palabra.",
-      "La traducción literal del signo.",
-      "La intención del mensaje."
+      "Animal de cuatro patas",
+      "Fidelidad o ternura",
+      "Mamífero carnívoro doméstico",
+      "Un símbolo del estado"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Según Pierre Lévy, ¿qué caracteriza a la inteligencia colectiva?",
+    "options": [
+      "La homogenización del conocimiento",
+      "La especialización profesional",
+      "La coordinación en tiempo real y el reconocimiento mutuo",
+      "La centralización del saber"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué tecnologías son consideradas disruptivas por Genís Roca?",
+    "options": [
+      "Libros impresos y radio",
+      "Internet, IA, Blockchain, 5G",
+      "Televisión y teléfono fijo",
+      "Lápiz óptico y disquete"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Quién introdujo el concepto de prosumidor?",
+    "options": [
+      "Henry Jenkins",
+      "Carlos Scolari",
+      "Genís Roca",
+      "Alvin Toffler"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "¿Qué concepto propone Henry Jenkins en relación con la participación activa del público?",
+    "options": [
+      "Industria cultural",
+      "Cultura convergente",
+      "Mass media research",
+      "Lenguaje poético"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es una característica de las narrativas transmedia según Carlos Scolari?",
+    "options": [
+      "Repiten la misma historia en diferentes medios",
+      "Expanden el relato a través de diferentes plataformas",
+      "Solo usan medios digitales",
+      "Se basan en una estructura lineal"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué diferencia a la narrativa transmedia del crossmedia?",
+    "options": [
+      "Ambas cuentan la misma historia con diferente estilo",
+      "La transmedia repite el contenido, la crossmedia lo expande",
+      "La transmedia expande la historia, la crossmedia la repite en distintos medios",
+      "No existe diferencia"
+    ],
+    "answer": 2
+  },
+   {
+    "question": "¿Qué significa el concepto de 'habla' en el estructuralismo de Saussure?",
+    "options": [
+      "Es el conjunto de normas lingüísticas que comparten los hablantes.",
+      "Es el uso individual y concreto del lenguaje.",
+      "Es el estudio científico de la lengua.",
+      "Es el diccionario mental de un hablante."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es la función del lenguaje que busca influir en el receptor?",
+    "options": [
+      "Referencial",
+      "Emotiva",
+      "Apelativa",
+      "Poética"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué función del lenguaje se centra en verificar que el canal esté abierto?",
+    "options": [
+      "Referencial",
+      "Fática",
+      "Metalingüística",
+      "Poética"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es la idea principal detrás del concepto de 'sentido denotado' según Barthes?",
+    "options": [
+      "El significado subjetivo o simbólico del signo.",
+      "El uso del lenguaje en la publicidad.",
+      "El significado literal u objetivo de un signo.",
+      "La percepción individual del mensaje."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Cuál de estas frases corresponde a la función poética del lenguaje?",
+    "options": [
+      "¿Me escuchás?",
+      "Verde que te quiero verde.",
+      "Estudiá para el examen.",
+      "Hoy es martes."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Según Lévy, ¿por qué es importante la diversidad de saberes en la inteligencia colectiva?",
+    "options": [
+      "Porque permite mantener el orden en el sistema educativo.",
+      "Porque facilita la homogeneización del conocimiento.",
+      "Porque cada saber tiene valor en contexto y enriquece a la comunidad.",
+      "Porque promueve el aprendizaje individual sin colaboración."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Cuál es una diferencia clave entre el trabajo de humanos y el de insectos, según Pierre Lévy?",
+    "options": [
+      "Los insectos usan herramientas y los humanos no.",
+      "Los humanos repiten patrones mecánicos como los insectos.",
+      "La inteligencia colectiva humana se basa en creatividad y cultura.",
+      "Los insectos comparten saberes como los humanos."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué revolución digital identifica Genís Roca como la actual?",
+    "options": [
+      "Revolución agrícola",
+      "Revolución industrial",
+      "Revolución lítica",
+      "Revolución digital"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "¿Qué implica la 'expansión del relato' en una narrativa transmedia?",
+    "options": [
+      "Repetir una historia en varios formatos.",
+      "Transformar libros en películas sin agregar contenido.",
+      "Crear nuevas partes del relato en diferentes medios.",
+      "Usar solo medios digitales para contar una historia."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Cuál es una característica de la cultura participativa según Jenkins?",
+    "options": [
+      "Los usuarios solo consumen contenido.",
+      "Los usuarios comentan, remixan y crean contenido.",
+      "Los usuarios actúan como espectadores pasivos.",
+      "Los usuarios dependen exclusivamente de los medios."
     ],
     "answer": 1
   }
