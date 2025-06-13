@@ -166,17 +166,6 @@
     },
     {
         "source": "03 - V y V - Clasificacion de Pruebas",
-        "question": "¿Cuál es el objetivo principal del Ciclo de Vida del Desarrollo de Software (SDLC)?",
-        "options": [
-            "Maximizar los costos del proyecto",
-            "Minimizar los riesgos mediante planificación anticipada",
-            "Eliminar todas las fases de prueba",
-            "Reducir la interacción con el cliente"
-        ],
-        "answer": 1
-    },
-    {
-        "source": "03 - V y V - Clasificacion de Pruebas",
         "question": "En el Modelo en V, ¿qué tipo de prueba corresponde a la fase de 'Detailed Design'?",
         "options": [
             "Pruebas de sistema",
@@ -251,17 +240,6 @@
             "Pruebas de humo"
         ],
         "answer": 2
-    },
-    {
-        "source": "03 - V y V - Clasificacion de Pruebas",
-        "question": "En el contexto de pruebas, ¿qué es un 'bug'?",
-        "options": [
-            "Un requisito no implementado",
-            "Un defecto que se manifiesta durante la operación",
-            "Un caso de prueba fallido",
-            "Una herramienta de debugging"
-        ],
-        "answer": 1
     },
     {
         "source": "03 - V y V - Clasificacion de Pruebas",
@@ -1153,5 +1131,27 @@
         ],
         "answer": 2,
         "origin": "10 - Pruebas de caja Negra.pptx"
+    },
+    {
+        "source": "Complementarias - Testing",
+        "question": "¿Cuál es el propósito de una prueba de humo en un ciclo de integración continua?",
+        "options": [
+            "Verificar que cada unidad funciona por separado",
+            "Ejecutar todas las funcionalidades en detalle",
+            "Validar que el sistema básico funciona sin fallos críticos",
+            "Realizar pruebas de rendimiento"
+        ],
+        "answer": 2
+    },
+    {
+        "source": "Complementarias - Testing",
+        "question": "¿Qué característica define a una prueba de cordura (sanity test)?",
+        "options": [
+            "Se centra en el rendimiento bajo carga",
+            "Valida que una funcionalidad específica corregida funcione correctamente",
+            "Prueba todos los módulos de forma exhaustiva",
+            "Verifica la seguridad del sistema"
+        ],
+        "answer": 1
     }
 ]
