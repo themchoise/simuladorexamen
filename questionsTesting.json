@@ -1,0 +1,1157 @@
+[
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "¿Qué modelo de ciclo de vida del desarrollo de software se caracteriza por fases secuenciales y lineales?",
+        "options": [
+            "Modelo en Espiral",
+            "Modelo Cascada",
+            "Modelo Ágil",
+            "Modelo Iterativo"
+        ],
+        "answer": 1
+    },
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "¿Cuál es el objetivo principal del Ciclo de Vida del Desarrollo de Software (SDLC)?",
+        "options": [
+            "Maximizar los riesgos del proyecto",
+            "Minimizar los riesgos del proyecto mediante planificación anticipada",
+            "Evitar la interacción con el cliente",
+            "Reducir la documentación necesaria"
+        ],
+        "answer": 1
+    },
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "¿Qué tipo de requisito describe cómo un sistema debe comportarse en términos de rendimiento y seguridad?",
+        "options": [
+            "Requisitos funcionales",
+            "Requisitos no funcionales",
+            "Requisitos de usuario",
+            "Requisitos de diseño"
+        ],
+        "answer": 1
+    },
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "En el Modelo en V, ¿qué fase de prueba corresponde a la validación de requisitos del sistema?",
+        "options": [
+            "Pruebas unitarias",
+            "Pruebas de integración",
+            "Pruebas de sistema",
+            "Pruebas de aceptación"
+        ],
+        "answer": 2
+    },
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "¿Qué tipo de prueba se realiza sin ejecutar el código de la aplicación?",
+        "options": [
+            "Pruebas dinámicas",
+            "Pruebas estáticas",
+            "Pruebas de regresión",
+            "Pruebas de humo"
+        ],
+        "answer": 1
+    },
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "¿Qué técnica de prueba se utiliza cuando no se conoce la estructura interna del sistema?",
+        "options": [
+            "Pruebas de caja blanca",
+            "Pruebas de caja negra",
+            "Pruebas de integración",
+            "Pruebas unitarias"
+        ],
+        "answer": 1
+    },
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "¿Qué pregunta responde la verificación en el proceso de testing?",
+        "options": [
+            "¿Estoy construyendo el producto correcto?",
+            "¿Estoy construyendo correctamente el producto?",
+            "¿El software cumple las expectativas del cliente?",
+            "¿El sistema es fácil de usar?"
+        ],
+        "answer": 1
+    },
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "¿Qué elemento NO forma parte de un caso de prueba?",
+        "options": [
+            "Objetivo del caso de prueba",
+            "Resultado esperado",
+            "Precondiciones",
+            "Código fuente completo"
+        ],
+        "answer": 3
+    },
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "¿Qué tipo de prueba se enfoca en verificar la interfaz de unidades individuales como clases o métodos?",
+        "options": [
+            "Pruebas de sistema",
+            "Pruebas de aceptación",
+            "Pruebas unitarias",
+            "Pruebas de integración"
+        ],
+        "answer": 2
+    },
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "¿Qué caracteriza al modelo ágil de desarrollo de software?",
+        "options": [
+            "Fases rígidas y secuenciales",
+            "Entregas incrementales y frecuentes",
+            "Documentación exhaustiva antes de comenzar",
+            "Poca interacción con el cliente"
+        ],
+        "answer": 1
+    },
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "¿Qué actividad se realiza durante el debugging?",
+        "options": [
+            "Diseñar nuevos casos de prueba",
+            "Diagnosticar la causa de un bug y corregirlo",
+            "Escribir documentación técnica",
+            "Realizar pruebas de aceptación con el cliente"
+        ],
+        "answer": 1
+    },
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "En el contexto de pruebas, ¿qué es un 'bug'?",
+        "options": [
+            "Un requisito no funcional",
+            "Un defecto del programa que se manifiesta durante su operación",
+            "Una herramienta de testing",
+            "Un tipo de prueba de caja blanca"
+        ],
+        "answer": 1
+    },
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "¿Qué fase del SDLC incluye tareas como 'Definición de requisitos' y 'Diseño'?",
+        "options": [
+            "Implementación",
+            "Planificación",
+            "Pruebas",
+            "Mantenimiento"
+        ],
+        "answer": 1
+    },
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "¿Qué tipo de prueba verifica la interacción entre componentes del sistema?",
+        "options": [
+            "Pruebas unitarias",
+            "Pruebas de integración",
+            "Pruebas de humo",
+            "Pruebas de estrés"
+        ],
+        "answer": 1
+    },
+    {
+        "source": " 02 - Conceptos Fundamentales",
+        "question": "Según Boehm, ¿qué pregunta representa la validación?",
+        "options": [
+            "¿Estamos construyendo el producto correctamente?",
+            "¿Estamos construyendo el producto correcto?",
+            "¿El código está optimizado?",
+            "¿Los requisitos están bien documentados?"
+        ],
+        "answer": 1
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "¿Cuál es el objetivo principal del Ciclo de Vida del Desarrollo de Software (SDLC)?",
+        "options": [
+            "Maximizar los costos del proyecto",
+            "Minimizar los riesgos mediante planificación anticipada",
+            "Eliminar todas las fases de prueba",
+            "Reducir la interacción con el cliente"
+        ],
+        "answer": 1
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "En el Modelo en V, ¿qué tipo de prueba corresponde a la fase de 'Detailed Design'?",
+        "options": [
+            "Pruebas de sistema",
+            "Pruebas de integración",
+            "Pruebas unitarias",
+            "Pruebas de aceptación"
+        ],
+        "answer": 2
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "¿Qué caracteriza a las pruebas de caja blanca?",
+        "options": [
+            "Se realizan sin conocimiento del código interno",
+            "Se enfocan en la interfaz de usuario",
+            "Se diseñan conociendo la estructura interna del código",
+            "Solo pueden ser ejecutadas por el cliente"
+        ],
+        "answer": 2
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "Según Pressman, ¿qué define la verificación?",
+        "options": [
+            "Construir el producto correcto",
+            "Implementar correctamente una función específica",
+            "Cumplir con las expectativas no documentadas",
+            "Realizar solo pruebas de aceptación"
+        ],
+        "answer": 1
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "¿Qué elemento NO es parte esencial de un caso de prueba?",
+        "options": [
+            "Precondiciones",
+            "Resultado esperado",
+            "Historial completo de commits",
+            "Pasos de ejecución"
+        ],
+        "answer": 2
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "¿En qué se diferencian los requisitos funcionales de los no funcionales?",
+        "options": [
+            "Los funcionales describen características de rendimiento",
+            "Los no funcionales especifican qué hace el sistema",
+            "Los funcionales describen qué hace el sistema",
+            "No hay diferencia sustancial"
+        ],
+        "answer": 2
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "¿Qué modelo de desarrollo se caracteriza por iteraciones cortas y entregas incrementales?",
+        "options": [
+            "Modelo Cascada",
+            "Modelo Ágil",
+            "Modelo en V",
+            "Modelo Espiral"
+        ],
+        "answer": 1
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "¿Qué tipo de prueba se realiza sin ejecutar el código?",
+        "options": [
+            "Pruebas dinámicas",
+            "Pruebas de regresión",
+            "Pruebas estáticas",
+            "Pruebas de humo"
+        ],
+        "answer": 2
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "En el contexto de pruebas, ¿qué es un 'bug'?",
+        "options": [
+            "Un requisito no implementado",
+            "Un defecto que se manifiesta durante la operación",
+            "Un caso de prueba fallido",
+            "Una herramienta de debugging"
+        ],
+        "answer": 1
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "¿Qué pregunta fundamental responde la validación según Boehm?",
+        "options": [
+            "¿Estamos construyendo el producto correctamente?",
+            "¿Estamos construyendo el producto correcto?",
+            "¿El código está optimizado?",
+            "¿Los test cases cubren el 100%?"
+        ],
+        "answer": 1
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "¿Qué técnica de prueba se usa cuando no se conoce la estructura interna del sistema?",
+        "options": [
+            "Caja blanca",
+            "Caja negra",
+            "Pruebas de caminos básicos",
+            "Pruebas de flujo de control"
+        ],
+        "answer": 1
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "¿Qué fase del SDLC incluye operaciones y mantenimiento?",
+        "options": [
+            "Fase inicial",
+            "Fase de diseño",
+            "Fase final",
+            "No está incluida en el SDLC"
+        ],
+        "answer": 2
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "¿Qué tipo de prueba verifica la interacción entre componentes?",
+        "options": [
+            "Unitarias",
+            "De integración",
+            "De aceptación",
+            "De estrés"
+        ],
+        "answer": 1
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "¿Qué caracteriza al modelo en espiral?",
+        "options": [
+            "Enfoque lineal estricto",
+            "Énfasis en análisis de riesgos",
+            "Ausencia de fases de prueba",
+            "Solo una iteración"
+        ],
+        "answer": 1
+    },
+    {
+        "source": "03 - V y V - Clasificacion de Pruebas",
+        "question": "¿Qué herramienta se menciona para pruebas unitarias en Python?",
+        "options": [
+            "JUnit",
+            "unittest",
+            "Selenium",
+            "JMeter"
+        ],
+        "answer": 1
+    },
+    {
+        "source": "05 - Pruebas de Integracion.pdf",
+        "question": "¿Cuál es la principal diferencia entre pruebas unitarias y pruebas de integración?",
+        "options": [
+            "Las pruebas unitarias verifican módulos aislados, las de integración verifican la interacción entre módulos",
+            "Las pruebas unitarias requieren más recursos",
+            "Las pruebas de integración no detectan errores de comunicación",
+            "No existe diferencia"
+        ],
+        "answer": 0
+    },
+    {
+        "source": "05 - Pruebas de Integracion.pdf",
+        "question": "¿Qué estrategia de integración permite detectar errores de manera más temprana?",
+        "options": [
+            "Integración Big Bang",
+            "Integración incremental",
+            "Integración paralela",
+            "Integración secuencial"
+        ],
+        "answer": 1
+    },
+    {
+        "source": "05 - Pruebas de Integracion.pdf",
+        "question": "¿Qué elemento se utiliza para simular módulos superiores en la integración ascendente?",
+        "options": [
+            "Stubs",
+            "Drivers",
+            "Mocks",
+            "Interfaces"
+        ],
+        "answer": 1
+    },
+    {
+        "source": "05 - Pruebas de Integracion.pdf",
+        "question": "¿Cuál es una ventaja de la integración incremental sobre la integración Big Bang?",
+        "options": [
+            "Permite localizar errores más fácilmente",
+            "Requiere menos planificación",
+            "No necesita stubs ni drivers",
+            "Es más rápida en todos los casos"
+        ],
+        "answer": 0
+    },
+    {
+        "source": "05 - Pruebas de Integracion.pdf",
+        "question": "¿Qué tipo de errores suelen detectarse en las pruebas de integración?",
+        "options": [
+            "Errores de comunicación entre módulos",
+            "Errores de sintaxis",
+            "Errores de compilación",
+            "Errores de hardware"
+        ],
+        "answer": 0
+    },
+    {
+        "source": "05 - Pruebas de Integracion.pdf",
+        "question": "¿Qué es un stub en el contexto de pruebas de integración?",
+        "options": [
+            "Un módulo temporal que simula el comportamiento de módulos de bajo nivel",
+            "Un módulo que reemplaza la interfaz gráfica",
+            "Un módulo que simula la base de datos",
+            "Un módulo que automatiza la ejecución de pruebas"
+        ],
+        "answer": 0
+    },
+    {
+        "source": "05 - Pruebas de Integracion.pdf",
+        "question": "¿Qué es un driver en pruebas de integración?",
+        "options": [
+            "Un módulo temporal que simula el comportamiento de módulos de alto nivel",
+            "Un módulo que reemplaza la base de datos",
+            "Un módulo que simula la red",
+            "Un módulo que automatiza la documentación"
+        ],
+        "answer": 0
+    },
+    {
+        "source": "05 - Pruebas de Integracion.pdf",
+        "question": "¿Cuál es una desventaja de la integración descendente?",
+        "options": [
+            "Requiere muchos drivers",
+            "Requiere muchos stubs",
+            "No permite detectar errores de integración",
+            "No se puede automatizar"
+        ],
+        "answer": 1
+    },
+    {
+        "source": "05 - Pruebas de Integracion.pdf",
+        "question": "¿Qué caracteriza a la integración mixta (sandwich)?",
+        "options": [
+            "Combina integración ascendente y descendente",
+            "Solo utiliza stubs",
+            "Solo utiliza drivers",
+            "No requiere planificación"
+        ],
+        "answer": 0
+    },
+    {
+        "source": "05 - Pruebas de Integracion.pdf",
+        "question": "¿Por qué es importante documentar los resultados de las pruebas de integración?",
+        "options": [
+            "Para facilitar el análisis y la corrección de errores",
+            "Para cumplir con requisitos legales",
+            "Para reducir el tiempo de desarrollo",
+            "No es importante"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué objetivo principal tienen las pruebas dinámicas de sistemas?",
+        "options": [
+            "Verificar solo componentes individuales",
+            "Ejercitar el sistema globalmente y verificar interfaces",
+            "Reemplazar pruebas unitarias",
+            "Validar únicamente requisitos no funcionales"
+        ],
+        "answer": 1,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "question": "¿Qué dos etapas principales tiene el proceso de prueba de sistemas?",
+        "options": [
+            "Diseño y codificación",
+            "Preparación de pruebas y aplicación de las mismas",
+            "Planificación y mantenimiento",
+            "Documentación y despliegue"
+        ],
+        "answer": 1,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "question": "¿Qué actividad NO forma parte de la preparación de pruebas?",
+        "options": [
+            "Preparar un plan de pruebas",
+            "Preparar casos de prueba",
+            "Desarrollar nuevas funcionalidades",
+            "Preparar lista de verificaciones de requerimientos"
+        ],
+        "answer": 2,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "question": "¿Qué tipo de prueba verifica los tiempos de respuesta del sistema?",
+        "options": [
+            "Pruebas de volumen",
+            "Pruebas de rendimiento",
+            "Pruebas de seguridad",
+            "Pruebas de operación"
+        ],
+        "answer": 1,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "question": "¿Qué prueban las pruebas de sobrecarga?",
+        "options": [
+            "La interfaz gráfica del sistema",
+            "El funcionamiento en el límite de recursos",
+            "La documentación del sistema",
+            "Los requisitos funcionales básicos"
+        ],
+        "answer": 1,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "question": "¿Qué aspecto verifica principalmente las pruebas de disponibilidad de datos?",
+        "options": [
+            "La capacidad de recuperación ante fallos",
+            "La velocidad de procesamiento",
+            "El diseño de la base de datos",
+            "La interfaz de usuario"
+        ],
+        "answer": 0,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "question": "¿Qué tipo de prueba evalúa la adaptabilidad del sistema a las necesidades de los usuarios?",
+        "options": [
+            "Pruebas de seguridad",
+            "Pruebas de facilidad de uso",
+            "Pruebas de volumen",
+            "Pruebas de entorno"
+        ],
+        "answer": 1,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "question": "¿Qué suposición importante se hace antes de realizar pruebas de sistema?",
+        "options": [
+            "Las interfaces no necesitan pruebas previas",
+            "Las unidades ya fueron probadas por separado",
+            "No es necesario probar la integración",
+            "El sistema debe estar en producción"
+        ],
+        "answer": 1,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "question": "¿Qué verifican las pruebas de operación?",
+        "options": [
+            "Los procedimientos de arranque del sistema",
+            "El código fuente del sistema",
+            "Los requisitos del cliente",
+            "La documentación técnica"
+        ],
+        "answer": 0,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "question": "¿Qué tipo de prueba evalúa los mecanismos de control de acceso?",
+        "options": [
+            "Pruebas de seguridad",
+            "Pruebas de volumen",
+            "Pruebas de comunicaciones",
+            "Pruebas funcionales"
+        ],
+        "answer": 0,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "question": "¿Qué caracteriza a las pruebas de volumen?",
+        "options": [
+            "Verifican el sistema con grandes volúmenes de datos",
+            "Evalúan solo componentes individuales",
+            "Se realizan sin datos reales",
+            "Verifican únicamente la interfaz gráfica"
+        ],
+        "answer": 0,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "question": "¿Qué aspecto verifican principalmente las pruebas de entorno?",
+        "options": [
+            "Interacciones con otros sistemas",
+            "Código fuente interno",
+            "Documentación técnica",
+            "Requisitos no funcionales"
+        ],
+        "answer": 0,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "question": "¿En qué etapa del proyecto se preparan los casos de prueba?",
+        "options": [
+            "En etapas finales de implementación",
+            "Durante el mantenimiento",
+            "En etapas tempranas ligadas a requerimientos",
+            "Solo después de completar todo el desarrollo"
+        ],
+        "answer": 2,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "question": "¿Qué tipo de prueba verifica las interfaces entre componentes?",
+        "options": [
+            "Pruebas de comunicaciones",
+            "Pruebas unitarias",
+            "Pruebas de documentación",
+            "Pruebas de código estático"
+        ],
+        "answer": 0,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "question": "¿Qué proporcionan las pruebas de sistema sobre el comportamiento del software?",
+        "options": [
+            "Una visión similar al entorno de producción",
+            "Solo información sobre componentes aislados",
+            "Detalles del código fuente",
+            "Requisitos del cliente"
+        ],
+        "answer": 0,
+        "source": "06 - Prueba de Sistemas.pptx"
+    },
+    {
+        "source": "06 - Pruebas funcionales.pdf",
+        "question": "¿Cuál es el objetivo principal de las pruebas funcionales?",
+        "options": [
+            "Verificar que el sistema cumple con los requisitos especificados",
+            "Medir el rendimiento del sistema",
+            "Evaluar la seguridad de la infraestructura",
+            "Analizar la calidad del código fuente"
+        ],
+        "answer": 0
+    },
+    {
+        "source": "06 - Pruebas funcionales.pdf",
+        "question": "¿Qué técnica se utiliza en las pruebas funcionales?",
+        "options": [
+            "Pruebas de caja negra",
+            "Pruebas de caja blanca",
+            "Pruebas de integración",
+            "Pruebas de regresión"
+        ],
+        "answer": 0
+    },
+    {
+        "source": "06 - Pruebas funcionales.pdf",
+        "question": "¿Cuál de los siguientes NO es un tipo de prueba funcional?",
+        "options": [
+            "Pruebas de regresión",
+            "Pruebas de integración",
+            "Pruebas de volumen",
+            "Pruebas de aceptación"
+        ],
+        "answer": 2
+    },
+    {
+        "source": "06 - Pruebas funcionales.pdf",
+        "question": "¿Qué se verifica principalmente en las pruebas de aceptación?",
+        "options": [
+            "Que el sistema satisface las necesidades del usuario final",
+            "El rendimiento bajo carga",
+            "La cobertura del código",
+            "La seguridad de la red"
+        ],
+        "answer": 0
+    },
+    {
+        "source": "06 - Pruebas funcionales.pdf",
+        "question": "¿Qué caracteriza a las pruebas de caja negra?",
+        "options": [
+            "No requieren conocimiento del código fuente",
+            "Se centran en la estructura interna del sistema",
+            "Evalúan la eficiencia de los algoritmos",
+            "Requieren acceso a la base de datos"
+        ],
+        "answer": 0
+    },
+    {
+        "source": "06 - Pruebas funcionales.pdf",
+        "question": "¿Qué documento es fundamental para diseñar casos de prueba funcionales?",
+        "options": [
+            "La especificación de requisitos",
+            "El manual de usuario",
+            "El diagrama de clases",
+            "El plan de mantenimiento"
+        ],
+        "answer": 0
+    },
+    {
+        "source": "06 - Pruebas funcionales.pdf",
+        "question": "¿Qué tipo de prueba funcional se realiza para verificar que una corrección no afectó otras partes del sistema?",
+        "options": [
+            "Pruebas de regresión",
+            "Pruebas de volumen",
+            "Pruebas de integración",
+            "Pruebas de aceptación"
+        ],
+        "answer": 0
+    },
+    {
+        "source": "06 - Pruebas funcionales.pdf",
+        "question": "¿Qué se busca principalmente con las pruebas de integración funcional?",
+        "options": [
+            "Verificar la interacción entre diferentes módulos o componentes",
+            "Medir el tiempo de respuesta del sistema",
+            "Evaluar la seguridad de los datos",
+            "Analizar la documentación técnica"
+        ],
+        "answer": 0
+    },
+    {
+        "source": "06 - Pruebas funcionales.pdf",
+        "question": "¿Qué tipo de pruebas funcionales suelen realizar los usuarios finales antes de la puesta en producción?",
+        "options": [
+            "Pruebas de aceptación",
+            "Pruebas unitarias",
+            "Pruebas de volumen",
+            "Pruebas de estrés"
+        ],
+        "answer": 0
+    },
+    {
+        "source": "06 - Pruebas funcionales.pdf",
+        "question": "¿Cuál es una ventaja de las pruebas funcionales automatizadas?",
+        "options": [
+            "Permiten ejecutar rápidamente grandes cantidades de casos de prueba",
+            "No requieren mantenimiento",
+            "Detectan errores de hardware",
+            "Eliminan la necesidad de pruebas manuales"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de las pruebas de regresión?",
+        "options": [
+            "Verificar solo nuevas funcionalidades",
+            "Asegurar que cambios no afecten funcionalidad existente",
+            "Reemplazar todas las pruebas unitarias",
+            "Validar únicamente el diseño de interfaz"
+        ],
+        "answer": 1,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿Qué caracteriza a las pruebas de regresión según el documento?",
+        "options": [
+            "Se ejecutan solo una vez al final del desarrollo",
+            "Son pruebas planificadas ejecutadas periódicamente",
+            "Verifican solo componentes aislados",
+            "No requieren automatización"
+        ],
+        "answer": 1,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿Qué riesgo se busca mitigar con pruebas de regresión?",
+        "options": [
+            "Que nuevos cambios reintroduzcan errores corregidos",
+            "Que los usuarios finales no lean la documentación",
+            "Que el equipo de desarrollo cambie frecuentemente",
+            "Que el software no tenga nuevas funcionalidades"
+        ],
+        "answer": 0,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿Qué técnica de regresión implica volver a ejecutar todos los casos de prueba?",
+        "options": [
+            "Regresión unitaria",
+            "Regresión parcial",
+            "Regresión completa",
+            "Prueba de humo"
+        ],
+        "answer": 2,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿En qué etapa del desarrollo se ejecutan pruebas de regresión unitaria?",
+        "options": [
+            "Después del despliegue en producción",
+            "Inmediatamente después de cambios en una unidad",
+            "Solo durante la fase de diseño",
+            "Antes de escribir cualquier código"
+        ],
+        "answer": 1,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿Qué ventaja tiene automatizar las pruebas de regresión?",
+        "options": [
+            "Elimina la necesidad de pruebas manuales",
+            "Reduce tiempo y esfuerzo en su ejecución",
+            "Garantiza que no se encontrarán errores",
+            "Reemplaza completamente a los testers humanos"
+        ],
+        "answer": 1,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿Qué tipo de prueba se ejecuta primero para validar una nueva versión?",
+        "options": [
+            "Pruebas de cordura",
+            "Pruebas de humo",
+            "Pruebas de aceptación",
+            "Pruebas de rendimiento"
+        ],
+        "answer": 1,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿Qué herramienta se menciona para integración continua?",
+        "options": [
+            "Docker",
+            "Jenkins",
+            "GitHub",
+            "Selenium"
+        ],
+        "answer": 1,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿Cuándo es especialmente necesaria una regresión completa?",
+        "options": [
+            "En cambios menores de código",
+            "En versiones con cambios significativos",
+            "Cuando no hay cambios en el código",
+            "Solo durante el desarrollo inicial"
+        ],
+        "answer": 1,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿Qué evalúa la regresión de localización?",
+        "options": [
+            "Solo el rendimiento del sistema",
+            "Contenido de pantalla y configuraciones de UI",
+            "Estructura interna del código",
+            "Tiempos de respuesta del servidor"
+        ],
+        "answer": 1,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿Qué caracteriza a la regresión parcial?",
+        "options": [
+            "Ejecuta todas las pruebas sin excepción",
+            "Selecciona pruebas basadas en prioridad o módulos",
+            "Solo verifica nuevas funcionalidades",
+            "No requiere casos de prueba definidos"
+        ],
+        "answer": 1,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿Qué prueba confirma que nueva funcionalidad funciona como se espera?",
+        "options": [
+            "Pruebas de cordura",
+            "Pruebas de humo",
+            "Pruebas de volumen",
+            "Pruebas de estrés"
+        ],
+        "answer": 0,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿Qué incluye el mantenimiento del caso de prueba?",
+        "options": [
+            "Solo ejecutar pruebas existentes",
+            "Documentar defectos y gestionar casos de prueba",
+            "Eliminar todos los casos anteriores",
+            "No requiere documentación"
+        ],
+        "answer": 1,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿Qué ventaja ofrecen las pruebas de regresión en integración continua?",
+        "options": [
+            "Disminuyen la frecuencia de releases",
+            "Permiten ejecución frecuente y automatizada",
+            "Eliminan la necesidad de integración",
+            "Reducen la cobertura de pruebas"
+        ],
+        "answer": 1,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿Qué tipo de problemas pueden detectar las pruebas de regresión CSS?",
+        "options": [
+            "Errores en bases de datos",
+            "Problemas que afectan múltiples páginas y estados de UI",
+            "Fallos en algoritmos complejos",
+            "Errores de sintaxis en código backend"
+        ],
+        "answer": 1,
+        "origin": "08 - Pruebas de Regresion.pptx"
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de las pruebas de aceptación?",
+        "options": [
+            "Verificar que el sistema cumple con los requisitos del usuario y del negocio",
+            "Medir el rendimiento del sistema bajo carga",
+            "Detectar errores de integración entre módulos",
+            "Evaluar la calidad del código fuente"
+        ],
+        "answer": 0,
+        "origin": "09 - Pruebas de Aceptacion.pdf"
+    },
+    {
+        "question": "¿Quiénes suelen participar activamente en la ejecución de las pruebas de aceptación?",
+        "options": [
+            "Solo los desarrolladores",
+            "El equipo de testing exclusivamente",
+            "Usuarios finales y representantes del cliente",
+            "El área de infraestructura"
+        ],
+        "answer": 2,
+        "origin": "09 - Pruebas de Aceptacion.pdf"
+    },
+    {
+        "question": "¿En qué momento del ciclo de vida del software se realizan las pruebas de aceptación?",
+        "options": [
+            "Al inicio del desarrollo",
+            "Después de las pruebas de sistema y antes de la puesta en producción",
+            "Durante la fase de diseño",
+            "En paralelo con las pruebas unitarias"
+        ],
+        "answer": 1,
+        "origin": "09 - Pruebas de Aceptacion.pdf"
+    },
+    {
+        "question": "¿Cuál de los siguientes NO es un tipo de prueba de aceptación?",
+        "options": [
+            "Pruebas de aceptación del usuario (UAT)",
+            "Pruebas de aceptación operativa",
+            "Pruebas de aceptación contractual",
+            "Pruebas de integración continua"
+        ],
+        "answer": 3,
+        "origin": "09 - Pruebas de Aceptacion.pdf"
+    },
+    {
+        "question": "¿Qué documento es fundamental para definir los criterios de aceptación?",
+        "options": [
+            "La especificación de requisitos",
+            "El manual de usuario",
+            "El plan de mantenimiento",
+            "El diagrama de clases"
+        ],
+        "answer": 0,
+        "origin": "09 - Pruebas de Aceptacion.pdf"
+    },
+    {
+        "question": "¿Qué sucede si el sistema no cumple con los criterios de aceptación?",
+        "options": [
+            "El sistema se rechaza o se solicita corrección de errores",
+            "Se aprueba automáticamente",
+            "Se pasa a producción sin cambios",
+            "Se eliminan los casos de prueba"
+        ],
+        "answer": 0,
+        "origin": "09 - Pruebas de Aceptacion.pdf"
+    },
+    {
+        "question": "¿Cuál es una característica clave de las pruebas de aceptación?",
+        "options": [
+            "Se enfocan en la experiencia y necesidades del usuario final",
+            "Evalúan la eficiencia de los algoritmos",
+            "Requieren acceso al código fuente",
+            "Solo se realizan en ambientes de desarrollo"
+        ],
+        "answer": 0,
+        "origin": "09 - Pruebas de Aceptacion.pdf"
+    },
+    {
+        "question": "¿Qué tipo de pruebas de aceptación verifica que el sistema cumple con lo estipulado en un contrato?",
+        "options": [
+            "Pruebas de aceptación contractual",
+            "Pruebas de integración",
+            "Pruebas de volumen",
+            "Pruebas de regresión"
+        ],
+        "answer": 0,
+        "origin": "09 - Pruebas de Aceptacion.pdf"
+    },
+    {
+        "question": "¿Qué se busca principalmente con las pruebas de aceptación operativa?",
+        "options": [
+            "Verificar que el sistema funcione correctamente en el entorno real de operación",
+            "Evaluar la calidad del código fuente",
+            "Medir el rendimiento bajo estrés",
+            "Analizar la documentación técnica"
+        ],
+        "answer": 0,
+        "origin": "09 - Pruebas de Aceptacion.pdf"
+    },
+    {
+        "question": "¿Qué resultado se espera tras la aprobación de las pruebas de aceptación?",
+        "options": [
+            "El sistema puede ser puesto en producción",
+            "Se reinician las pruebas unitarias",
+            "Se cancela el proyecto",
+            "Se eliminan los requisitos"
+        ],
+        "answer": 0,
+        "origin": "09 - Pruebas de Aceptacion.pdf"
+    },
+    {
+        "question": "¿Qué característica define a las pruebas de caja negra?",
+        "options": [
+            "Analizan la lógica interna del código",
+            "Verifican interfaces sin considerar la lógica interna",
+            "Solo se aplican a código no estructurado",
+            "Requieren acceso completo al código fuente"
+        ],
+        "answer": 1,
+        "origin": "10 - Pruebas de caja Negra.pptx"
+    },
+    {
+        "question": "¿Qué técnica de caja negra prueba valores límite de entradas?",
+        "options": [
+            "Prueba de equivalencia",
+            "Prueba de límites",
+            "Prueba de casos de uso",
+            "Prueba de interoperabilidad"
+        ],
+        "answer": 1,
+        "origin": "10 - Pruebas de caja Negra.pptx"
+    },
+    {
+        "question": "¿Qué evalúa la prueba de interoperabilidad en caja negra?",
+        "options": [
+            "Capacidad del sistema para resistir ataques",
+            "Comunicación con otros sistemas",
+            "Valores límite de entrada",
+            "Cobertura de líneas de código"
+        ],
+        "answer": 1,
+        "origin": "10 - Pruebas de caja Negra.pptx"
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de las pruebas de caja blanca?",
+        "options": [
+            "Verificar solo la interfaz de usuario",
+            "Analizar la estructura interna del código",
+            "Probar sin conocer ningún detalle del sistema",
+            "Validar únicamente requisitos funcionales"
+        ],
+        "answer": 1,
+        "origin": "11 - Pruebas de caja blanca.pptx"
+    },
+    {
+        "question": "¿Qué mide la cobertura de sentencia en caja blanca?",
+        "options": [
+            "Número de condiciones probadas",
+            "Líneas de código ejecutadas",
+            "Flujos de datos completos",
+            "Decisiones cubiertas"
+        ],
+        "answer": 1,
+        "origin": "11 - Pruebas de caja blanca.pptx"
+    },
+    {
+        "question": "¿Qué técnica de caja blanca prueba todos los caminos posibles del código?",
+        "options": [
+            "Cobertura de condición",
+            "Cobertura de decisión",
+            "Prueba de bucles",
+            "Flujo de datos"
+        ],
+        "answer": 1,
+        "origin": "11 - Pruebas de caja blanca.pptx"
+    },
+    {
+        "question": "¿Qué prueba de caja negra se basa en requisitos y casos de uso?",
+        "options": [
+            "Prueba de equivalencia",
+            "Prueba aleatoria",
+            "Prueba de casos de uso",
+            "Prueba de errores comunes"
+        ],
+        "answer": 2,
+        "origin": "10 - Pruebas de caja Negra.pptx"
+    },
+    {
+        "question": "¿Qué aspecto NO evalúa la cobertura de sentencia?",
+        "options": [
+            "Líneas de código ejecutadas",
+            "Si el código está libre de errores",
+            "Ramas del flujo de control",
+            "Porcentaje de código cubierto"
+        ],
+        "answer": 1,
+        "origin": "11 - Pruebas de caja blanca.pptx"
+    },
+    {
+        "question": "¿Qué técnica de caja negra prueba entradas que suelen generar errores?",
+        "options": [
+            "Prueba de seguridad",
+            "Prueba de errores comunes",
+            "Prueba aleatoria",
+            "Prueba de interoperabilidad"
+        ],
+        "answer": 1,
+        "origin": "10 - Pruebas de caja Negra.pptx"
+    },
+    {
+        "question": "¿Qué técnica de caja blanca se enfoca en variables y flujo de información?",
+        "options": [
+            "Cobertura de condición",
+            "Flujo de datos",
+            "Prueba de bucles",
+            "Cobertura de sentencia"
+        ],
+        "answer": 1,
+        "origin": "11 - Pruebas de caja blanca.pptx"
+    },
+    {
+        "question": "En caja negra, ¿qué prueba evalúa la resistencia a ataques?",
+        "options": [
+            "Prueba de límites",
+            "Prueba de seguridad",
+            "Prueba de equivalencia",
+            "Prueba aleatoria"
+        ],
+        "answer": 1,
+        "origin": "10 - Pruebas de caja Negra.pptx"
+    },
+    {
+        "question": "¿Qué fórmula calcula el porcentaje de cobertura de código?",
+        "options": [
+            "(Líneas ejecutadas * Total de líneas) / 100",
+            "(Líneas ejecutadas / Total de líneas) * 100",
+            "(Total de líneas / Líneas ejecutadas) * 100",
+            "(Total de condiciones / Líneas ejecutadas) * 100"
+        ],
+        "answer": 1,
+        "origin": "11 - Pruebas de caja blanca.pptx"
+    },
+    {
+        "question": "¿Qué técnica de caja negra divide entradas en categorías?",
+        "options": [
+            "Prueba de equivalencia",
+            "Prueba de límites",
+            "Prueba aleatoria",
+            "Prueba de casos de uso"
+        ],
+        "answer": 0,
+        "origin": "10 - Pruebas de caja Negra.pptx"
+    },
+    {
+        "question": "¿Qué prueba de caja blanca cubre estructuras de control?",
+        "options": [
+            "Cobertura de condición",
+            "Flujo de datos",
+            "Cobertura de sentencia",
+            "Prueba de bucles"
+        ],
+        "answer": 0,
+        "origin": "11 - Pruebas de caja blanca.pptx"
+    },
+    {
+        "question": "¿Qué prueba de caja negra usa entradas aleatorias?",
+        "options": [
+            "Prueba de equivalencia",
+            "Prueba de límites",
+            "Prueba aleatoria",
+            "Prueba de seguridad"
+        ],
+        "answer": 2,
+        "origin": "10 - Pruebas de caja Negra.pptx"
+    }
+]

@@ -5,11 +5,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Simulador de Examen</title>
   <link rel="stylesheet" href="style.css">
+  <!-- Fuente Google Fonts: Inter -->
+   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  
 </head>
 <body>
-  <h1>Simulador de Examen - Comunicación</h1>
-  <div id="quiz-container"></div>
-  <button onclick="submitExam()">Enviar respuestas</button>
+  <div id="progress-fixed" >
+    Pregunta <span id="answered">0</span> de <span id="total">0</span>
+  </div>
+  <h1>Simulador de Examenes - IFTS - By King Candy</h1>
+  <div class="container">
+    <button id="btnTallerCom"   class="btn">Taller Com</button>
+    <button id="btntest" class="btn">Met.Pruebas.Sistemas(Testing)</button>
+  </div>
+  <div style="display: none;" id="quiz-container"></div>
+  <button id="sendrep" style="display: none;" onclick="submitExam()">Enviar respuestas</button>
   <div id="result"></div>
 
   <script src="script.js"></script>

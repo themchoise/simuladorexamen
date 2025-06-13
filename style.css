@@ -1,19 +1,77 @@
+/* Modo oscuro: escala de negro y gris, texto blanco */
 body {
-  font-family: sans-serif;
-  margin: 20px;
-  background: #f9f9f9;
+  margin: 0;
+  background: #181818; /* Gris muy oscuro */
+  color: #fff;
+  padding: 35px; /* Blanco puro para texto */
 }
 h1 {
-  color: #333;
+  color: #fff; /* Blanco para títulos */
 }
 .question-block {
-  margin-bottom: 20px;
-  padding: 10px;
-  background: white;
-  border-radius: 5px;
-  box-shadow: 0 0 5px #ccc;
+  margin-bottom: 16px;
+  padding: 12px;
+  background: #232323; /* Gris oscuro para bloques */
+  border-radius: 6px;
+  box-shadow: 0 0 8px #111; /* Sombra negra */
+  border: 1px solid #333; /* Borde gris oscuro */
 }
 button {
   padding: 10px 20px;
   font-size: 16px;
+  background-color: #222; /* Gris oscuro */
+  color: #fff; /* Blanco */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+button:hover {
+  background-color: #fff; /* Botón blanco al pasar el mouse */
+  color: #181818; /* Texto oscuro */
+}
+input,
+select,
+textarea {
+  background: #232323;
+  color: #fff;
+  border: 1px solid #333;
+  border-radius: 4px;
+  padding: 6px;
+}
+a {
+  color: #fff;
+  text-decoration: underline;
+}
+body,
+h1,
+button,
+input,
+select,
+textarea {
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+#progress-fixed {
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: #232323;
+  color: #fff;
+  padding: 0.7rem 1.2rem;
+  border-bottom-left-radius: 12px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  z-index: 200;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+  letter-spacing: 1px;
+}
+@media (max-width: 600px) {
+  #progress-fixed {
+    font-size: 0.95rem;
+    padding: 0.5rem 0.7rem;
+  }
 }
